@@ -52,6 +52,8 @@ Click Save
 3. Application should login and you should see status Online in lower left corner
 
 Configuration of Yealink T20P
+URL: https://support.yealink.com/en/portal/search?keyword=T20P
+Firmware URL (same is located in this repo): https://support.yealink.com/en/portal/docList?archiveType=software&productCode=a2d13025edcf388a
 In this case i used phone with latest firmware available which is: 9.73.193.50
 Please reset phone to factory defaults - it will be easier to configure
 Default user/password is: admin/admin
